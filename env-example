@@ -1,0 +1,4 @@
+# FairMind AI Environment Variables
+
+# Get your API key from Google AI Studio (https://aistudio.google.com/)
+GEMINI_API_KEY=Add_Your_Key_Here

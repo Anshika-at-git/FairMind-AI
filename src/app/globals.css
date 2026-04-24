@@ -69,6 +69,9 @@
 .light .text-gray-400 {
   color: #000000 !important;
 }
+.light .text-gray-300 {
+  color: #374151 !important;
+}
 .light .text-gray-500 {
   color: #71717a !important;
 }

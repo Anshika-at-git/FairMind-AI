@@ -176,7 +176,7 @@ Contributions are welcome! Feel free to open issues or submit pull requests.
 Developed by **Team Matrix Eluders**
 
 ---
-
+   
 ## 💬 Final Note
 
 FairMind AI is a step towards building more ethical, transparent, and fair AI systems.
